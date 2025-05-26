@@ -1,8 +1,8 @@
-# Car Price Prediction 🚗
+# Car Price Prediction
 
 This project uses Linear Regression to predict used car prices.
 
-## 📊 Features Used
+##  Features Used
 - Year
 - Present Price
 - Kms Driven
@@ -11,7 +11,7 @@ This project uses Linear Regression to predict used car prices.
 - Transmission
 - Owner
 
-## 📌 Tech Stack
+## Tech Stack
 - Python
 - Pandas
 - NumPy
@@ -19,5 +19,5 @@ This project uses Linear Regression to predict used car prices.
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
-## 🧠 Model
+## Model
 - Linear Regression
